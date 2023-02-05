@@ -2,17 +2,17 @@
 	"Members": [{
 		"Name": "John Doe",
 		"Slack ID": "john.doe",
-		"Shift Start Time": "09:00:00",
-		"Shift End Time": "12:00:00"
+		"shift_start": "09:00:00",
+		"shift_end": "12:00:00"
 	}, {
 		"Name": "Jane Doe",
 		"Slack ID": "jane.doe",
-		"Shift Start Time": "12:01:00",
-		"Shift End Time": "03:00:00"
+		"shift_start": "12:01:00",
+		"shift_end": "03:00:00"
 	}, {
 		"Name": "Jim Smith",
 		"Slack ID": "jim.smith",
-		"Shift Start Time": "03:01:00",
-		"Shift End Time": "06:00:00"
+		"shift_start": "03:01:00",
+		"shift_end": "06:00:00"
 	}]
 }
