@@ -1,0 +1,22 @@
+{
+  "Members": [
+    {
+      "Name": "John Doe",
+      "Slack ID": "john.doe",
+      "Shift Start Time": "09:00:00",
+      "Shift End Time": "05:00:00"
+    },
+    {
+      "Name": "Jane Doe",
+      "Slack ID": "jane.doe",
+      "Shift Start Time": "10:00:00",
+      "Shift End Time": "06:00:00"
+    },
+    {
+      "Name": "Jim Smith",
+      "Slack ID": "jim.smith",
+      "Shift Start Time": "08:00:00",
+      "Shift End Time": "04:00:00"
+    }
+  ]
+}
